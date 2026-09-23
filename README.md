@@ -11,7 +11,34 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Hazar Hamad Bhat"
         self.role = "AI & Data Science Engineer"
-        self.location = "India"
+        self.location = "India"<!-- DYNAMIC HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Hazar%20Hamad%20Bhat&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Architect;Edge+IoT+%26+Embedded+Systems;Optimizing+C%2F%2B%2B+Algorithms" alt="Typing SVG" />
+</div>
+
+<br>
+
+<!-- TERMINAL / CODE PERSONA -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="30"/>
+  <h3><code>sys.modules['hazar_bhat'].initialize()</code></h3>
+</div>
+
+```python
+class AI_Engineer:
+    def __init__(self):
+        self.name = "Hazar Hamad Bhat"
+        self.focus = ["Machine Learning", "Generative AI", "Edge IoT"]
+        self.current_projects = [
+            "Hybrid-Search RAG Pipelines",
+            "Computer Vision & Facial Recognition IoT",
+            "C/C++ Algorithm Optimization"
+        ]
+        
+    def collaborate(self):
+        return "Always open to hackathons, AI research, and embedded systems prototyping."
         self.email = "hammadbhat985@gmail.com"
 
     def get_core_competencies(self):
