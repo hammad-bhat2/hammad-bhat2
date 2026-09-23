@@ -5,7 +5,7 @@
   <!-- This creates a cool animated typing effect that looks like a terminal -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=import+torch;+import+langchain;;Initialize+RAG+Pipeline...;Compile+IoT+Firmware..." alt="Typing SVG" />
 </div>
-
+![Snake animation](https://github.com/hammad-bhat2/hammad-bhat2/blob/output/github-contribution-grid-snake-dark.svg)
 ```python
 class SoftwareEngineer:
     def __init__(self):
